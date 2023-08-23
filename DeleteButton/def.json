@@ -1,0 +1,17 @@
+{
+    "id": "DeleteButton",
+    "name": "Delete Buton",
+    "version_name": "1.0",
+    "version_code": 1,
+    "author": "The Desynced Team",
+    "homepage": "https://www.desyncedgame.com/",
+    "description": "Adds a Delete Button when Unit/Buildings are choosed",
+    "packages": {
+        "Main": {
+            "name": "DeleteButton",
+            "entry": "main.lua",
+            "dependencies": [ "Main/Data" ],
+            "type": "Addon"
+        }
+    }
+}
