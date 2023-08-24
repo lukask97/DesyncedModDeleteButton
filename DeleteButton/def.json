@@ -1,10 +1,10 @@
 {
     "id": "DeleteButton",
     "name": "Delete Buton",
-    "version_name": "1.0",
+    "version_name": "0.1",
     "version_code": 1,
-    "author": "The Desynced Team",
-    "homepage": "https://www.desyncedgame.com/",
+    "author": "lukask97",
+    "homepage": "",
     "description": "Adds a Delete Button when Unit/Buildings are choosed",
     "packages": {
         "Main": {
